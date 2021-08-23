@@ -1,0 +1,6 @@
+age, gender, beakColor,
+8, "duckF", "yellow",
+9, "duckM", "red",
+9, "duckF", "brown",
+9, "duckM", "grey",
+7, "duckF", "brown",

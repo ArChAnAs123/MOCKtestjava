@@ -1,0 +1,6 @@
+ age, gender, canEat, sizeIntFt, 
+4, "Female", true, 3
+7, "male", true, 7
+6, "Female", false, 3
+4, "Female", false, 2
+3, "male", true, 3
